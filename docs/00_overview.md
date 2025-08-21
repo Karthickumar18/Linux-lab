@@ -1,12 +1,10 @@
-# Linux Commands Instruction Lab
-
-Welcome, adventurer!  
+## Welcome, adventurer!  
 In this lab, you will **learn Linux step by step** through fun scenarios and missions.  
 Each section has:  
-- 🎯 A **Scenario** to set the story  
-- ✅ **Objectives / Use Cases** to explain real-world importance  
-- 🖥️ **Commands to Try** (exact commands with explanations)  
-- 🏆 A **Mini-Challenge** to practice like a game  
+- A **Scenario** to set the story  
+- **Objectives / Use Cases** to explain real-world importance  
+- **Commands to Try** (exact commands with explanations)  
+- A **Mini-Challenge** to practice like a game  
 
 By the end of this 1-hour lab, you will know how to:  
 - Use the terminal and shell  
