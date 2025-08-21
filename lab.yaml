@@ -16,7 +16,7 @@ sections:
       title: Navigation & Listing Files
       path: docs/02_navigation_listing.md
       estimated_minutes: 8
-      dependencies: [1]
+      dependencies: []
     - id: 3
       title: File Operations
       path: docs/03_file_ops.md
