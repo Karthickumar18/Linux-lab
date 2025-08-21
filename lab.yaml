@@ -10,7 +10,7 @@ sections:
     title: Introduction & Terminal Basics
     path: docs/01_intro_terminal.md
     estimated_minutes: 7
-    dependencies: []
+    dependencies: [] 
   - id: 2
     title: Navigation & Listing Files
     path: docs/02_navigation_listing.md
