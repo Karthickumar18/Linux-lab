@@ -1,4 +1,4 @@
-# Linux Commands — Instruction Lab (Gamified)
+# Linux Commands — Instruction Lab
 
 Welcome, adventurer!  
 In this lab, you will **learn Linux step by step** through fun scenarios and missions.  
