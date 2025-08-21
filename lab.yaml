@@ -10,6 +10,7 @@ sections:
     - id: 1
       title: Introduction & Terminal Basics
       path: docs/01_intro_terminal.md
+      helper_path: docs/01_intro_terminal.md
       estimated_minutes: 7
       dependencies: []
     - id: 2
